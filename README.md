@@ -71,3 +71,6 @@ must includes alphanumeric characters.
 
 ![WhatsApp Image 2022-12-08 at 17 24 39](https://user-images.githubusercontent.com/118196801/206626712-3f6ca7c1-7b1d-4add-bf13-11b732304be4.jpg)
 
+
+### UML DIAGRAM FOR THE ABOVEMENTIONED PROJECT ###
+![WhatsApp Image 2022-12-07 at 18 11 50](https://user-images.githubusercontent.com/118196801/206668802-cd4b247a-1c3a-40db-b745-81caa88d5fc3.jpg)
