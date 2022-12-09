@@ -1,4 +1,4 @@
-
+## Banking Management ##
 Team Member Names : 
 211116 - Hitanshu Kaushik 
 211133 - Siddhartha Sharma
@@ -68,3 +68,6 @@ of account and logout. After selecting, you have to
 enter an username with minimum 6 characters, then 
 pin for an account with minimum 6 characters which
 must includes alphanumeric characters.
+
+![WhatsApp Image 2022-12-08 at 17 24 39](https://user-images.githubusercontent.com/118196801/206626712-3f6ca7c1-7b1d-4add-bf13-11b732304be4.jpg)
+
